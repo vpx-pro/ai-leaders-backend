@@ -13,7 +13,7 @@ leaders = {
     "Sam Altman": {
         "query": "Sam Altman AGI",
         "fallback_quote": "We know how to build AGI. It could be developed this presidential term, and safety is critical.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Sam_Altman_cropped.jpg",
+        "image": "https://commons.wikimedia.org/wiki/File:Sam_Altman_CropEdit_James_Tamim.jpg",
         "source": "https://blog.samaltman.com/reflections"
     },
     "Geoffrey Hinton": {
