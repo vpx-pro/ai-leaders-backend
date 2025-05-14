@@ -10,7 +10,7 @@ ENV/
 .venv/
 
 # SQLite DB (optional if local only)
-leaders.db
+# leaders.db
 
 # VSCode & IDE configs
 .vscode/
